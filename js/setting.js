@@ -63,22 +63,22 @@ OpenSpending.Styles.Cofog = {
   '9': { icon: 'icons/ambulance.svg', color: '#C75746', bcolor: '#D33673' },
   '9-35': { icon: 'icons/ambulance.svg', color: '#C75746', bcolor: '#D33673' },
   '10': { icon: 'icons/education.svg', color: '#C75746', bcolor: '#790586' },
-  '10-36': { icon: 'icons/education.svg', color: '#C75746', bcolor: '#790586' }
-  '10-37': { icon: 'icons/primary.svg', color: '#C75746', bcolor: '#790586' }
-  '10-38': { icon: 'icons/secondary-upper.svg', color: '#C75746', bcolor: '#790586' }
-  '10-39': { icon: 'icons/schools.svg', color: '#C75746', bcolor: '#790586' }
-  '10-40': { icon: 'icons/pre-school.svg', color: '#C75746', bcolor: '#790586' }
-  '10-41': { icon: 'icons/unemployment.svg', color: '#C75746', bcolor: '#790586' }
-  '10-42': { icon: 'icons/planning.svg', color: '#C75746', bcolor: '#790586' }
-  '10-43': { icon: 'icons/human-resources.svg', color: '#C75746', bcolor: '#790586' }
-  '10-44': { icon: 'icons/civilian-action.svg', color: '#C75746', bcolor: '#790586' }
-  '10-45': { icon: 'icons/sports.svg', color: '#C75746', bcolor: '#790586' }
+  '10-36': { icon: 'icons/education.svg', color: '#C75746', bcolor: '#790586' },
+  '10-37': { icon: 'icons/primary.svg', color: '#C75746', bcolor: '#790586' },
+  '10-38': { icon: 'icons/secondary-upper.svg', color: '#C75746', bcolor: '#790586' },
+  '10-39': { icon: 'icons/schools.svg', color: '#C75746', bcolor: '#790586' },
+  '10-40': { icon: 'icons/pre-school.svg', color: '#C75746', bcolor: '#790586' },
+  '10-41': { icon: 'icons/unemployment.svg', color: '#C75746', bcolor: '#790586' },
+  '10-42': { icon: 'icons/planning.svg', color: '#C75746', bcolor: '#790586' },
+  '10-43': { icon: 'icons/human-resources.svg', color: '#C75746', bcolor: '#790586' },
+  '10-44': { icon: 'icons/civilian-action.svg', color: '#C75746', bcolor: '#790586' },
+  '10-45': { icon: 'icons/sports.svg', color: '#C75746', bcolor: '#790586' },
   '11': { icon: 'icons/public-debt.svg', color: '#C75746', bcolor: '#790586' },
-  '11-46': { icon: 'icons/public-debt.svg', color: '#C75746', bcolor: '#790586' }
+  '11-46': { icon: 'icons/public-debt.svg', color: '#C75746', bcolor: '#790586' },
   '12': { icon: 'icons/dollar.svg', color: '#C75746', bcolor: '#790586' },
-  '12-47': { icon: 'icons/dollar.svg', color: '#C75746', bcolor: '#790586' }
+  '12-47': { icon: 'icons/dollar.svg', color: '#C75746', bcolor: '#790586' },
   '13': { icon: 'icons/money.svg', color: '#C75746', bcolor: '#790586' },
   '13-48': { icon: 'icons/money.svg', color: '#C75746', bcolor: '#790586' }
+  
 };
-
 
